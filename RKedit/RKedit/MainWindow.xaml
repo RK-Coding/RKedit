@@ -1,0 +1,25 @@
+﻿<Window x:Class="RKedit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RKedit"
+        mc:Ignorable="d"
+        Title="RKedit" Height="500" Width="815" Topmost="True" Background="Black" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-0.2,2.4" Height="468" VerticalAlignment="Bottom">
+        <avalonEdit:TextEditor xmlns:avalonEdit="http://icsharpcode.net/sharpdevelop/avalonedit" Name="textEditor" FontFamily="Yu Gothic" FontSize="18" Margin="1,73,0,0" Height="395" VerticalAlignment="Top" Background="Black" Foreground="White"/>
+
+        <Button Content="Open File" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="87" Background="Black" BorderBrush="Black" Foreground="White" Height="31" FontFamily="Yu Gothic" FontSize="18" Click="Button_Click"/>
+        <Button Content="Save File" HorizontalAlignment="Left" Margin="92,10,0,0" VerticalAlignment="Top" Width="87" Background="Black" BorderBrush="Black" Foreground="White" Height="31" FontFamily="Yu Gothic" FontSize="18" Click="Button_Click_1"/>
+        <Label x:Name="dir" Content="" HorizontalAlignment="Left" Margin="0,36,0,0" VerticalAlignment="Top" Width="799" Foreground="White" FontSize="20"/>
+        <Button Content="Save File" HorizontalAlignment="Left" Margin="92,10,0,0" VerticalAlignment="Top" Width="87" Background="Black" BorderBrush="Black" Foreground="White" Height="31" FontFamily="Yu Gothic" FontSize="18" Click="Button_Click_1"/>
+        <ComboBox x:Name="languageSelected" HorizontalAlignment="Left" Margin="662,12,0,0" VerticalAlignment="Top" Width="137" Background="Black" Foreground="Black" BorderBrush="Black" FontSize="16" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem IsSelected="True">None</ComboBoxItem>
+            <ComboBoxItem>Python</ComboBoxItem>
+            <ComboBoxItem>C++</ComboBoxItem>
+            <ComboBoxItem>HTML</ComboBoxItem>
+            <ComboBoxItem>CSS</ComboBoxItem>
+            <ComboBoxItem>C#</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>

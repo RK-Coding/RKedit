@@ -1,0 +1,17 @@
+C:\Users\punee\source\repos\RKedit\RKedit\bin\Debug\RKedit.exe.config
+C:\Users\punee\source\repos\RKedit\RKedit\bin\Debug\RKedit.exe
+C:\Users\punee\source\repos\RKedit\RKedit\bin\Debug\RKedit.pdb
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\MainWindow.g.cs
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\App.g.cs
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit_MarkupCompile.cache
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit_MarkupCompile.lref
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\MainWindow.baml
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.g.resources
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.Properties.Resources.resources
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.csproj.GenerateResource.cache
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.csproj.CoreCompileInputs.cache
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.exe
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.pdb
+C:\Users\punee\source\repos\RKedit\RKedit\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\punee\source\repos\RKedit\RKedit\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\punee\source\repos\RKedit\RKedit\obj\Debug\RKedit.csproj.CopyComplete
